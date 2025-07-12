@@ -7,7 +7,7 @@ It consists of:
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Python 🐍
 - TensorFlow / Keras
